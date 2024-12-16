@@ -4,5 +4,3 @@
   
 - 📫 How to reach me: My email is rishavray422@gmail.com. My phone-number is 608-443-7805. My Linkedin-Profile can be accessed with this URL: 'https://linkedin.com/in/rishav-ray-9a9968341'.
 
-- 🌐 A polished-website the walks through my portfolio/work can be accessed with this URL: 'http://localhost:8037/rishavray/work'
-
