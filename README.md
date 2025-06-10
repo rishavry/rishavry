@@ -5,6 +5,6 @@
 - 📫 How to reach me:
 * Email: rishavray422@gmail.com
 * Number(texting only): <span style="color:#03b6fc">608-443-7805</span>
-* Linkedin: https://www.fakelink.com
+* Linkedin: [https://www.fakelink.com](https://leetcode.com/u/ocoDFiROav/)
 * Resume: https://the-works-of-rishav-ray.com/resume.pdf
 * LeetCode profile: https://leetcode.com/u/ocoDFiROav/
