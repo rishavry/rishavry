@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rishavry(Rishav Ray), a 21-year old, self-taught full-stack web developer living in Verona WI.
+- 👋 Hi, I’m @rishavry(Rishav Ray), a 21-year old, self-taught full-stack software-engineer living in Verona WI.
 
 - 👀 I’m currently interested in Frontend, Backend, Data, & the Cloud, with plans to get into app-dev, advanced software engineering/management, ML, AI, & Data-Science in the future!
   
