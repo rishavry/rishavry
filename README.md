@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishavry(Rishav Ray), a 21-year old, self-taught data-scientist and ML/AI software-engineer living in Verona WI.
 
-- 👀 I’m currently interested in Data-Science, Machine-Learning, Artificial-Intelligence, Frontend, Backend, Data, & Cloud-Computing, with plans to get into deep-learning, robotics, VR, game-development, data-engineering, & quantum computing in the future!
+- 👀 I’m currently interested in Data-Science, Machine-Learning, Artificial-Intelligence, Frontend, Backend, Data, & Cloud-Computing, with plans to get into deep-learning, data-engineering, game-development, VR, robotics, & quantum computing in the future!
   
 - 📫 How to reach me:
 * Email: rishavray422@gmail.com
